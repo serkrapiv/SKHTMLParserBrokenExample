@@ -1,0 +1,1 @@
+Sample project for this SO question: http://stackoverflow.com/questions/26673858/strange-memory-behaviour-for-struct-ivar-in-objective-c
